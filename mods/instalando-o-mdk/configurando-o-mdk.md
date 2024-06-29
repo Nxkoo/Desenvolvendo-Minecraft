@@ -23,7 +23,7 @@ Após abrir a pasta, você poderá excluir esses 6 arquivos
 5. <mark style="color:red;">MinecraftForge-License.txt</mark>
 6. <mark style="color:red;">README.txt</mark>
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Ficando assim apenas esses outros 6 arquivos.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Ficando assim apenas esses outros 6 arquivos.</p></figcaption></figure>
 
 Agora você deve seguir esses passos:
 

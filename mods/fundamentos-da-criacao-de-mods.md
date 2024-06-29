@@ -50,16 +50,18 @@ O `modid` é um identificador único para o seu mod. Ele deve ser único para ev
 
 #### 2. Proxy
 
-Você pode usar o proxy para separar o código do lado do servidor e do lado do cliente. O proxy pode ser usado para registrar coisas que precisam ser registradas apenas no lado do cliente ou do servidor e vice-versa. Existem 3 tipos de proxy e são eles:
+Você pode usar o proxy para separar o código do lado do servidor e do lado do cliente. O proxy pode ser usado para registrar coisas que precisam ser registradas apenas no lado do cliente ou do servidor e vice-versa.&#x20;
 
-* **CommonProxy**: será usado tanto no lado servidor quanto no lado do cliente.
-* **ClientProxy**: será usado apenas no lado do cliente.
-* **ServerProxy**: será usado apenas no lado do servidor.
+No Forge, utilizamos três tipos principais de proxies:
+
+* **CommonProxy**: Utilizado tanto no lado do servidor quanto no lado do cliente. Ideal para código que deve ser compartilhado entre ambos.
+* **ClientProxy**: Utilizado apenas no lado do cliente. Ideal para código que manipula renderizações e interações com o usuário.
+* **ServerProxy**: Utilizado apenas no lado do servidor. Ideal para código que lida com lógica de jogo, manipulação de dados e outras funcionalidades que devem ser mantidas no servidor.
 
 #### 3. Eventos
 
 O Forge ou melhor até mesmo o Minecraft, usam sistemas de eventos para controlar as ações do jogo, eles operam através de acontecimentos/eventos respondendo situações como, blocos sendo quebrados, itens sendo usados, jogadores entrando no jogo e entres outros. No forge você pode até mesmo criar seus próprios eventos, para manipular o jogo conforme a sua vontade.&#x20;
 
-
+***
 
 Agora que você já sabe os fundamentos de um mod, podemos começar a criação do nosso mod. 😉🎉🎊

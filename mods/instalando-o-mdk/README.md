@@ -12,12 +12,12 @@ Agora com o IntelliJ IDEA instalado, precisamos da nossa base/template para come
 
 Para instalar o MDK, precisará ir primeiro no site do **Forge**, abrir a parte **1.7.10** e baixar a "[**src**](#user-content-fn-1)[^1]"
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 * Depois de baixar, vá até a pasta _Downloads_
 * E logo em seguida: extraí-a o arquivo.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 * E coloque a pasta extraída em um local onde você deseja.
 

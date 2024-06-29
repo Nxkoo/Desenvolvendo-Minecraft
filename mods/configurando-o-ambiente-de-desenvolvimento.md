@@ -41,7 +41,7 @@ Para ver qual é o seu tipo de sistema, basta seguir os seguintes passos:
 
 * Após realizar o download, execute o instalador para instalar o Java no Windows. Este processo instalará tanto o **JDK** quanto a **JRE**.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Evite mudar o diretório de instalação.
@@ -49,12 +49,12 @@ Evite mudar o diretório de instalação.
 
 * Em seu Explorador de Arquivos, deve ter algo mais ou menos assim:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * Precisamos agora, validar se a instalação também já configurou nossa variável de ambiente, para poder executar o Java pelo Prompt de comando ou PowerShell do Windows.
 * Abra o Prompt de comando e execute o comando `java -version`.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Precisa aparecer exatamente assim.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Precisa aparecer exatamente assim.</p></figcaption></figure>
 
 {% hint style="danger" %}
 Caso não apareça da mesma forma que a imagem, então precisaremos configurar a nossa variável de ambiente.
@@ -94,24 +94,24 @@ sudo mv jdk-8uXXX /usr/lib/jvm/
 {% tab title="Windows" %}
 * Primeiro aperte o botão Windows e escreva `Editar as variáveis de ambiente do sistema`&#x20;
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 * Logo em seguida você deverá apertar em **Variáveis de Ambiente**
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 * Em Variáveis do sistema, clique em **Novo...**
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 * E escreva **`JAVA_HOME`**em Nome da variável
 * E logo abaixo especifique o caminho que colocou o **JDK**
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 * Logo depois encontre onde está escrito **Path** e clique em editar
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 * Ao lado você encontrará algumas opções e clique em **Novo** e escreva: `C:\Program Files\Java\jdk1.8.0_202\bin`
 * Depois apenas clique em _**OK -> OK -> Aplicar**_ e seu ambiente Java estará configurado.
