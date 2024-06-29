@@ -12,7 +12,7 @@ Este livro detalha os assuntos necessários para dar os primeiros passos na cria
 
 ### Sobre mim
 
-Bom, eu sou o [**Nykoo**](https://github.com/nxkoo), você pode encontrar meu nick como **Nxkoo**, porém se pronuncia <mark style="color:purple;">(N I C O)</mark> e sou desenvolvedor e entusiasta de Minecraft há vários anos. Minha jornada começou como a de muitos: jogando em servidores de anime, fazendo parte de staffs, querendo criar meus próprios jogos e, posteriormente, criando o meu próprio servidor. Foi então que descobri o fascinante mundo da programação. Ao longo dos anos, estudei sobre a criação de plugins e mods e vi que na internet há pouco conteúdo sobre essas coisas principalmente em pt-BR[^1]. Por isso, decidi compartilhar um pouco do meu conhecimento com vocês.
+Bom, eu sou o [**Nykoo**](https://github.com/nxkoo), você pode encontrar meu nick como **Nxkoo**, porém se pronuncia <mark style="color:purple;">(N I C O)</mark> e sou desenvolvedor e entusiasta de Minecraft há vários anos. Minha jornada começou como a de muitos: jogando em servidores de anime, fazendo parte de staffs, querendo criar meus próprios jogos e, posteriormente, criando o meu próprio servidor. Foi então que descobri o fascinante mundo da programação. Ao longo dos anos, estudei sobre a criação de plugins e mods e vi que na internet há pouco conteúdo sobre essas coisas principalmente em pt-BR[^1]. Por isso, decidi compartilhar um pouco do meu conhecimento com vocês. E não se esqueça de uma coisa, [nunca desista, persevere até o fim](#user-content-fn-2)[^2].
 
 ### Por que a versão 1.7.10?
 
@@ -37,3 +37,5 @@ O **principal objetivo** deste livro é fornecer um guia básico para **iniciar*
 {% endhint %}
 
 [^1]: Português do Brasil
+
+[^2]: Mas aquele que perseverar até ao fim será salvo. Mt 24:13

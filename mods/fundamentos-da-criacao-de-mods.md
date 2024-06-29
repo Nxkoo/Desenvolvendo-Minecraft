@@ -30,7 +30,9 @@ Para começar, é importante entender a estrutura básica de um mod no Minecraft
 
 ### O Ciclo de Vida de um Mod
 
-Entender o ciclo de vida de um mod é crucial para saber quando e onde inicializar suas funcionalidades, por exemplo, quando um mod está sendo iniciado, quando já iniciou e até mesmo antes de iniciar. Os métodos principais são:
+Entender o ciclo de vida de um mod é crucial para saber quando e onde inicializar suas funcionalidades, por exemplo, quando um mod está sendo iniciado, quando já iniciou e até mesmo antes de iniciar.&#x20;
+
+Resumindo o Forge tem 3 fases na sua composição, que são elas, **preInit**, **init** e **postInit,** utilizadas para antes de inicializar o mod, quando inicializa e após inicializar, respectivamente.
 
 * **preInit**: Usado para carregar configurações, registrar itens e blocos, e outras tarefas iniciais.
 * **init**: Usado para registrar renderizações, eventos, e outros elementos que dependem dos recursos carregados em preInit.

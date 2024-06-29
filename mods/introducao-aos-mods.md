@@ -18,6 +18,8 @@ Antes de começarmos a criação de mods, precisaremos de algumas ferramentas b�
 2. **IntelliJ IDEA**: Uma poderosa IDE [(Integrated Development Environment)](#user-content-fn-2)[^2] que nos ajuda a escrever e gerenciar o código do nosso mod de maneira eficiente.
 3. **Forge MDK** [**(Mod Developer Kit)**](#user-content-fn-3)[^3]: Uma plataforma que permite a criação e o gerenciamento de mods para o Minecraft. Iremos utilizar o Forge para a versão 1.7.10.
 
+> Um aviso, algumas coisas que eu falar vai ser interpretando que você já sabe o mínimo de Java, como classes, packages, programação orientada a objetos e etc...
+
 Agora que você sabe o que são mods e quais ferramentas iremos precisar, vamos dar um passo adiante. 🎉
 
 [^1]: Kit de Desenvolvimento Java

@@ -56,11 +56,13 @@ Com tudo alterado, seu projeto deverá ficar dessa forma.
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-Aeee terminamos essa parte de configuração que crucial para o desenvolvimento de qualquer tipo de projeto, é como eu costumo falar.
+Aeee terminamos essa parte de configuração que é crucial para o desenvolvimento de qualquer tipo de projeto, é como eu costumo falar.
 
 > O básico bem feito é melhor que um avançado mal feito.
 >
-> &#x20;                                                                                           <mark style="color:red;">Nykoo.</mark>
+> &#x20;                                                                                       <mark style="color:red;">Nykoo.</mark>
+
+Agora podemos finalmente ir para a parte do código. Let's goo!
 
 [^1]: pacote
 
